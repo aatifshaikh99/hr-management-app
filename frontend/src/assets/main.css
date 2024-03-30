@@ -1,0 +1,7 @@
+body {
+    /* Fallback color */
+    background-color: #dadcf7;
+
+    /* Gradient background */
+    background-image: linear-gradient(to bottom left, #e4e5fe, #ffdff6);
+}
